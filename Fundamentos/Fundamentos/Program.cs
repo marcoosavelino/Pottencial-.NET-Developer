@@ -2,6 +2,15 @@
 
 using Fundamentos;
 
+/*
+decimal valorMonetario = 82.40M;
+Console.WriteLine($"{valorMonetario:C}");
+
+double porcentagem = .3421;
+Console.WriteLine(porcentagem.ToString("P"));
+*/
+
+/*
 int[] arrayInteiros = new int[3];
 
 arrayInteiros[0] = 72;
@@ -25,17 +34,7 @@ foreach (int valor in arrayInteiros)
     Console.WriteLine(valor);
     contadorForEach++;
 }
-
-
-
-
-
-
-
-
-
-
-
+*/
 
 
 /*
@@ -49,12 +48,14 @@ pessoa1.Apresentar();
 //DateTime dataAtual = DateTime.Now;
 //Console.WriteLine(dataAtual.ToString("dd/MM/yyyy"));
 
-/* int a = 10;
+/* 
+int a = 10;
 int b = 20;
 
 int c = a + b;
 
-Console.WriteLine(c);*/
+Console.WriteLine(c);
+*/
 
 /*
 int quantidadeEmEstoque = 10;
