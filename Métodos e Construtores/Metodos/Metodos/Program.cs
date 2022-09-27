@@ -24,4 +24,3 @@ cursoDeIngles.RemoverAluno(pessoa1);
 Console.WriteLine(cursoDeIngles.ObterQuantidadeDeAlunosMatriculados(cursoDeIngles.Alunos));
 cursoDeIngles.ListarAlunos();
 
-

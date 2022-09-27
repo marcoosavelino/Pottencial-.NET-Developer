@@ -20,6 +20,11 @@ namespace Metodos
             this.Nome = Nome;
             this.Idade = Idade;
         }
+
+        public void Descontruct(out string nome, out int idade){
+            nome = this.Nome;
+            idade = this.Idade;
+        }
         public string Nome {
             get
             {
